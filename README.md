@@ -12,11 +12,11 @@ Client is a major gas and electricity utility
 - Client wants to try discounting strategy
 • SME division head suggests that offering customers at high propensity to churn a 20% discount might be effective
 
-## Task1: Business Understanding and Hypothesis Framing
+### Task1: Business Understanding and Hypothesis Framing
 
-## Task 2: Exploratory Data Analysis
+### Task 2: Exploratory Data Analysis
 
-## Task 3: Feature Engineering & Modelling
+### Task 3: Feature Engineering & Modelling
 
-## Task 4: Findings & Recommendations
+### Task 4: Findings & Recommendations
 

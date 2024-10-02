@@ -1,4 +1,4 @@
-# Data Science Job Simulation by BCG on Forage.Com
+# BCG Data Science Job Simulation on Forage.Com
 
 ## Problem Statement: 
 
